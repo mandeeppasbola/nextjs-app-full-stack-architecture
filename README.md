@@ -1,0 +1,1 @@
+# nextjs-app-full-stack-architecture
